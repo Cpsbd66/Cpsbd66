@@ -12,7 +12,7 @@ Skills: Python / C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cpsbd66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discord.com/users/985474007195353108)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/tapantor_2008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/cpsbd66/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpsbd66&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpsbd66)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cpsbd66&show_icons=true&theme=dark#gh-dark-mode-only)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cpsbd66&show_icons=true)
 
