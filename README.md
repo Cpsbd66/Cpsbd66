@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3F1DF7&vCenter=true&width=435&lines=Game+Developer+%26+Competitive+Programmer)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on [Cookie Clicker](https://replit.com/@cpsbd66/Cookie-Clicker)
+- 🔭 I’m currently working on [Cookie Clicker](https://github.com/cpsbd66/Cookie-Clicker)
 
 - 🌱 I’m currently learning **Data Structure and Algorithms & Unity**
 
