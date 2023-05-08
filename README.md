@@ -19,6 +19,7 @@
 <a href="https://www.hackerearth.com/@cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@cpsbd66" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Cpsbd66" height="30" width="40" /></a>
 <a href="https://discordapp.com/users//985474007195353108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="985474007195353108" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tapantor-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapantor-das" height="30" width="40" /></a>
 </p>
 
 
