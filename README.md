@@ -13,7 +13,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.codechef.com/users/tapantor_2008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tapantor_2008" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/cps_bd66" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tapantor_2008" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cpsbd66" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tapantor_2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapantor_2008" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@cpsbd66" height="30" width="40" /></a>
