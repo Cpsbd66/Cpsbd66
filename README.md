@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="192" src="https://user-images.githubusercontent.com/109220196/221584426-98aaf22d-5efc-4ece-9fba-993d92fdc0f1.png" />
-</p>  
 <h2 align="center">Hi there 👋, I'm Tapantor Das!</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3F1DF7&vCenter=true&width=435&lines=Game+Developer+%26+Competitive+Programmer)](https://git.io/typing-svg)
