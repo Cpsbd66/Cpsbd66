@@ -44,6 +44,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
 <code><img height="40" src ="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png"></code>
 <code><img height="40" src ="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png"></code>
+<code><img height="40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 
 <h2 align="left">Support:</h3>
