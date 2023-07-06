@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"><br>- 👨 I'm Tapantor Das from Dhaka, Bangladesh. I am a Game Developer.<br>- 📚 I'm currently learning Data Structures and Algorithms.<br>- 💬 Ask me about **Python & C++**<br>- ⚡ In my free time I love to code 🙂</p>
+<p align="left"><br>- 👨 I'm Tapantor Das from Dhaka, Bangladesh. I am a Game Developer.<br>- 📚 I'm currently learning Data Structures and Algorithms.<br>- 💬 Ask me about Python & C++<br>- ⚡ In my free time I love to code 🙂</p>
 
 ### Connect With Me
 
@@ -54,16 +54,20 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="[https://cdn.simpleicons.org/visualstudio/5C2D91](https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png)" height="40" alt="Codeblocks Logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" height="40" alt="Codeblocks Logo"  />
   <img width="12" />
-  <img height="40" />
   
 </div>
 
 ###
 
 <h3 align="left">My CP Profiles</h3>
-<a href="https://www.codechef.com/users/cps_bd66" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tapantor_2008" height="30" width="40" /></a> <a href="https://codeforces.com/profile/cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cpsbd66" height="30" width="40" /></a> <a href="https://www.leetcode.com/tapantor_2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapantor_2008" height="30" width="40" /></a> <a href="https://www.hackerearth.com/@cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@cpsbd66" height="30" width="40" /></a> <a href="https://www.hackerrank.com/Cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Cpsbd66" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/cps_bd66" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tapantor_2008" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cpsbd66" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tapantor_2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapantor_2008" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@cpsbd66" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Cpsbd66" height="30" width="40" /></a>
+
 
 ###
 
