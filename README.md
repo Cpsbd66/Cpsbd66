@@ -14,6 +14,7 @@
 
 ###
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/tapantor-das-335b25270/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -23,6 +24,9 @@
   <a href="https://discord.com/users/985474007195353108" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  <a href="https://www.reddit.com/user/Cpsbd66" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="reddit logo"  />
+  </a> 
   <a href="tapantordas2008@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -48,11 +52,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pycharm/000000" height="40" alt="pycharm logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.png?_gl=1*1ok63tm*_ga*MTUwODkxNjUwNi4xNjg4NzM4Nzky*_ga_9J976DJZ68*MTY4ODczODc5MS4xLjEuMTY4ODczODkxNy4yMC4wLjA.&_ga=2.31740030.1594441343.1688738792-1508916506.1688738792" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" height="40" alt="Codeblocks Logo"  />
   <img width="12" />
@@ -62,11 +66,12 @@
 ###
 
 <h3 align="left">My CP Profiles</h3>
-<a href="https://www.codechef.com/users/cps_bd66" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tapantor_2008" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cpsbd66" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tapantor_2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapantor_2008" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@cpsbd66" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Cpsbd66" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/cps_bd66" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Cpsbd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://toph.co/u/Tapantor.kghs" target="blank"><img align="center" src="https://static.toph.co/images/emblem_512p.png?_=d5d517cf95abe4d22253494019b418fc5f3ce386" alt="Toph" height="30" width="40" /></a>
 
 
 ###
