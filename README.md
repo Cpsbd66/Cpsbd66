@@ -52,13 +52,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.png?_gl=1*1ok63tm*_ga*MTUwODkxNjUwNi4xNjg4NzM4Nzky*_ga_9J976DJZ68*MTY4ODczODc5MS4xLjEuMTY4ODczODkxNy4yMC4wLjA.&_ga=2.31740030.1594441343.1688738792-1508916506.1688738792" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" height="40" alt="Codeblocks Logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" height="40" alt="Markdown"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="40" alt="canva logo"  />
   <img width="12" />
   
 </div>
