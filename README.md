@@ -60,8 +60,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" height="40" alt="Markdown"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="40" alt="canva logo"  />
-  <img width="12" />
   
 </div>
 
