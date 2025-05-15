@@ -8,8 +8,7 @@
 
 ###
 
-<p align="left"><br>- 👨 I'm Tapantor Das from Dhaka, Bangladesh. I am a Game Developer.<br>- 📚 I'm currently learning Data Structures and Algorithms.<br>- 💬 Ask me about Python & C++<br>- ⚡ In my free time I love to code 🙂</p>
-
+<p align="left"><br>- 👨 I'm Tapantor Das from Dhaka, Bangladesh. I am into Artificial Intellifence.<br>- 📚 I'm currently learning Natural Language Processing.<br>-
 ### Connect With Me
 
 ###
@@ -24,9 +23,6 @@
   <a href="https://discord.com/users/985474007195353108" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.reddit.com/user/Cpsbd66" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="reddit logo"  />
-  </a> 
   <a href="tapantordas2008@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
