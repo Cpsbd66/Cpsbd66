@@ -9,7 +9,8 @@
 ###
 
 <p align="left"><br>- 👨 I'm Tapantor Das from Dhaka, Bangladesh. I am into Artificial Intellifence.<br>- 📚 I'm currently learning Natural Language Processing.<br>-
-### Connect With Me
+###
+Connect With Me
 
 ###
 <div align="center">
